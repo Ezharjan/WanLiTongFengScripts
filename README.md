@@ -1,12 +1,13 @@
 # WanLiTongFengScripts
+
 Scripts of a Reigns-like computer game made via Unity.
 
 
 **The Game is the Result of Teamwork.**
 
-*Team Members include:*
+*[Team Members](./TeamMembers.jpg) include:*
 
-Programmer: Yingdi Fu (YanShan University)
+Programmer: Yingdi Fu (YSU)
 
 Programmer: Qianqi Liu (BJUT)
 
